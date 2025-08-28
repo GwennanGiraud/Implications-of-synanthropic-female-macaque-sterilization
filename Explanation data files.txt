@@ -1,0 +1,40 @@
+Please cite our paper if you use our data or reference to our results.
+
+
+Explanation of data files:
+
+Attributs.csv provides the monthly sterilization status of each female. Each column is named with the individual’s identifier followed by "Status". Coding: 0 = Intact; 1 = Sterilized.
+
+Sampling_effort.csv contains the monthly sampling effort for each female.
+
+Dataset.csv contains the monthly frequencies or durations of behaviors of interest, as well as the number of partners involved for each female. Agonistic and sexual behaviors are expressed as frequencies, while grooming behaviors are expressed as durations. Column names consist of the individual’s identifier followed by the variable of interest.
+
+Behavioral variables:
+
+AgoRF – Frequency of agonistic behaviors received from females
+
+AgoPartRF – Number of female partners from which agonistic behaviors were received
+
+AgoEF – Frequency of agonistic behaviors emitted towards females
+
+AgoPartEF – Number of female partners towards which agonistic behaviors were emitted
+
+SexProPart – Number of male partners with which proceptive behaviors were displayed
+
+SexPro – Frequency of proceptive behaviors displayed
+
+SexRecPart – Number of male partners with which receptive behaviors were displayed
+
+SexRec – Frequency of receptive behaviors displayed
+
+SexAttPart – Number of males attracted
+
+SexAtt – Frequency of attractivity behaviors displayed
+
+GroomRM – Duration of grooming behaviors received from males
+
+GroomPartRM – Number of male partners from which grooming was received
+
+GroomEM – Duration of grooming behaviors emitted towards males
+
+GroomPartEM – Number of male partners towards which grooming was emitted
