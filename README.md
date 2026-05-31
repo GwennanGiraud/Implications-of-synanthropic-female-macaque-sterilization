@@ -1,9 +1,9 @@
-### Citation
+# Citation
 
 Please cite our paper if you use these data, code, or results in your own work.
 
 
-### Explanation of data files
+# Explanation of data files
 
 #Attributs.csv provides the monthly sterilization status of each female. Each column is named with the individual’s identifier followed by "Status". Coding: 0 = Intact; 1 = Sterilized.
 
@@ -12,7 +12,7 @@ Please cite our paper if you use these data, code, or results in your own work.
 #Dataset.csv contains the monthly frequencies or durations of behaviors of interest, as well as the number of partners involved for each female. Agonistic and sexual behaviors are expressed as frequencies, while grooming behaviors are expressed as durations. Column names consist of the individual’s identifier followed by the variable of interest.
 
 
-### Explanation of behavioral variables
+# Explanation of behavioral variables
 
 AgoRF – Frequency of agonistic behaviors received from females
 
